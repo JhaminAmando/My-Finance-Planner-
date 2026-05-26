@@ -1,4 +1,5 @@
-💰 My Finance Planner — Free Excel TemplateA free, practical Excel finance planner built to help you track income, manage expenses, and hit your savings goals — week by week and month by month. Designed with the Ghanaian cedi (₵) in mind, but works for anyone.
+💰 My Finance Planner — 
+Free Excel TemplateA free, practical Excel finance planner built to help you track income, manage expenses, and hit your savings goals — week by week and month by month. Designed with the Ghanaian cedi (₵) in mind, but works for anyone.
 📋 What's Inside
 🗂️ Sheet 1 — Dashboard
 A live summary that pulls data automatically from your Monthly Planner. At a glance you can see:
